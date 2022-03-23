@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "내 삶의 주인이 되기 위한 고요한 소용돌이"
+  location         : "지구"
   email            :
   links:
     - label: "Email"
