@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["5RL7XG2Y9K.com.wind.HomeBoard"],
+        "components": [{"/": "/simple-list-support/invite/*"}]
+      }
+    ]
+  }
+}
